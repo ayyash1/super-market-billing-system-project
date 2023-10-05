@@ -1,0 +1,7 @@
+ 1 egg 30 0
+ 2 bread 100 1
+ 3 juice 200 4
+ 4 Soap 150 2
+ 5 Oreo 150 0
+ 6 Rice 250 5
+ 7 pen 50 2
